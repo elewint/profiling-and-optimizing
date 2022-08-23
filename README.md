@@ -29,5 +29,6 @@ debugging, but not required if we are seeking to optimize performance.
 
 Time spent analyzing problems posed in the assignment:
     2 hours
+
 Time spent solving the problems after our analysis:
     7 hours
